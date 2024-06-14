@@ -1,5 +1,7 @@
 # Setup
 
+[Home](./readme.md) | [Next](./repositories.md)
+
 The following document will walk through setting up a **git** environment.
 
 ## Install Git
@@ -168,3 +170,5 @@ remote: Total 1343 (delta 292), reused 566 (delta 232), pack-reused 635
 Receiving objects: 100% (1343/1343), 11.00 MiB | 10.21 MiB/s, done.
 Resolving deltas: 100% (543/543), done.
 ```
+
+[Home](./readme.md) | [Next](./repositories.md)

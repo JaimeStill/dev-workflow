@@ -5,6 +5,13 @@ This repository defines organizational git-based development workflow standards 
 ## Contents
 
 * [Setup](./setup.md)
+* [Repositories](./repositories.md)
+* [Issues](./issues.md)
+* [Projects](./projects.md)
+* [Branches](./branches.md)
+* [Pull Requests](./pull-requests.md)
+* [Markdown](./markdown.md)
+* [Git Flow](./git-flow.md)
 
 ## Helpful Resources
 
