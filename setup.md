@@ -1,6 +1,6 @@
 # Setup
 
-[Home](./readme.md) | [Next](./repositories.md)
+[**Home**](./readme.md) | [**Next**](./repositories.md)
 
 The following document will walk through setting up a **git** environment.
 
@@ -14,19 +14,19 @@ Download and install [**git**](https://git-scm.com/). The only settings that I t
 Verify git installation as follows:
 
 ```pwsh
-C:\> git --version
+C:\{path}> git --version
 git version 2.45.2.windows.1
 ```
 
 ## Configure SSH
 
-The instructions that follow were adapted from [Generating a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [Add a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+The instructions that follow were adapted from [**Generating a new SSH key**](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [**Add a new SSH key**](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
 Execute the following from a PowerShell terminal:
 
 ```pwsh
 # should be your @army.mil email
-C:\> ssh-keygen -t ed25519 -C "your_email@example.com"
+C:\{path}> ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 You'll see the following output:
@@ -161,7 +161,7 @@ Open a PowerShell terminal pointed to the location you want to clone the reposit
 The following is an example of the full command execution:
 
 ```pwsh
-C:\> git clone git@work.github.com:s2va/monorepo-planning.git
+C:\{path}> git clone git@work.github.com:s2va/monorepo-planning.git
 Cloning into 'monorepo-planning'...
 remote: Enumerating objects: 1343, done.
 remote: Counting objects: 100% (708/708), done.
@@ -171,4 +171,4 @@ Receiving objects: 100% (1343/1343), 11.00 MiB | 10.21 MiB/s, done.
 Resolving deltas: 100% (543/543), done.
 ```
 
-[Home](./readme.md) | [Next](./repositories.md)
+[**Home**](./readme.md) | [**Next**](./repositories.md)
