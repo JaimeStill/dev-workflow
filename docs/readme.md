@@ -101,8 +101,6 @@ Click the **New SSH Key** button.
 
 In the *Add new SSH Key* form, provide a descriptive **Title**, keep the **Key type** set to *Authentication Key* and paste your key into the **Key** textbox:
 
-
-
 ![new-ssh-key](https://github.com/JaimeStill/JaimeStill/assets/14102723/1248bb52-b64c-427b-8414-4ccf65d019f7)
 
 Click **Add SSH key**.
@@ -153,6 +151,8 @@ HOST work.github.com
 ## Test Setup
 
 You can verify your setup by cloning a repository using the work SSH key. Navigate to a repository within your organization, click the **Code** dropdown. Under the **Local** tab, make sure *SSH* is selected and click the copy icon to the right of the URL:
+
+![repo-to-clone](https://github.com/JaimeStill/JaimeStill/assets/14102723/ad555ce3-53e7-4f25-b7e1-7cbd01a62d74)
 
 Open a PowerShell terminal pointed to the location you want to clone the repository. Type `git clone` then paste the SSH URL from the repository. Change `@github.com` to the host designation specified in your SSH config, i.e. `@work.github.com`.
 
