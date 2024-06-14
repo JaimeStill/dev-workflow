@@ -2,7 +2,9 @@
 
 This repository defines organizational git-based development workflow standards and practices. The starting point established here is purely meant to be a starting point that will grow and expand with the needs of the development team. All feedback and contributions are greatly appreciated.
 
-See [docs](./docs).
+## Contents
+
+* [Setup](./setup.md)
 
 ## Helpful Resources
 
