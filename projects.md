@@ -1,3 +1,3 @@
 # Projects
 
-[Home](./readme.md) | [Previous](./issues.md) | [Next](./branches.md)
+[**Home**](./readme.md) | [**Previous**](./issues.md) | [**Next**](./branches.md)

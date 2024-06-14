@@ -1,3 +1,3 @@
 # Git Flow
 
-[Home](./readme.md) | [Previous](./markdown.md)
+[**Home**](./readme.md) | [**Previous**](./markdown.md)

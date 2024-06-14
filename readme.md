@@ -4,19 +4,19 @@ This repository defines organizational git-based development workflow standards 
 
 ## Contents
 
-* [Setup](./setup.md)
-* [Repositories](./repositories.md)
-* [Issues](./issues.md)
-* [Projects](./projects.md)
-* [Branches](./branches.md)
-* [Pull Requests](./pull-requests.md)
-* [Markdown](./markdown.md)
-* [Git Flow](./git-flow.md)
+* [**Setup**](./setup.md)
+* [**Repositories**](./repositories.md)
+* [**Issues**](./issues.md)
+* [**Projects**](./projects.md)
+* [**Branches**](./branches.md)
+* [**Pull Requests**](./pull-requests.md)
+* [**Markdown**](./markdown.md)
+* [**Git Flow**](./git-flow.md)
 
 ## Helpful Resources
 
-* [Git Docs](https://git-scm.com/docs)
-* [GitHub Docs](https://docs.github.com/en/get-started)
-* [GitKraken - Learn Git](https://www.gitkraken.com/learn/git)
-* [Pro Git](https://git-scm.com/book/en/v2)
-* [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+* [**Git Docs**](https://git-scm.com/docs)
+* [**GitHub Docs**](https://docs.github.com/en/get-started)
+* [**GitKraken - Learn Git**](https://www.gitkraken.com/learn/git)
+* [**Pro Git**](https://git-scm.com/book/en/v2)
+* [**Git Cheat Sheet**](https://training.github.com/downloads/github-git-cheat-sheet/)

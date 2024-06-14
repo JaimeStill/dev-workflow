@@ -1,3 +1,3 @@
 # Pull Requests
 
-[Home](./readme.md) | [Previous](./branches.md) | [Next](./markdown.md)
+[**Home**](./readme.md) | [**Previous**](./branches.md) | [**Next**](./markdown.md)
