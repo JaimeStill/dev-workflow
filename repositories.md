@@ -9,6 +9,8 @@ There are two ways that you can setup a local git project:
 
 The sections that follow will walk you through both processes.
 
+> For a deep dive on repositories, see the [**References**](#references) section below.
+
 ## Cloning a Repository
 
 The simplest method of setting up a local git project is to clone an existing repository from a remote source. All you need is the [**remote repository URL**](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#about-remote-repositories) and a configured git environment (see [**Setup**](./setup.md) for details).
@@ -340,5 +342,9 @@ You can see in the output above that both personal and work repositories are upd
 **Work Repository**
 
 ![update-work](https://github.com/JaimeStill/JaimeStill/assets/14102723/8218642f-504d-424f-80d7-4c159a312711)
+
+## References
+
+* [GitHub Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 
 [**Home**](./readme.md) | [**Previous**](./setup.md) | [**Next**](./issues.md)

@@ -171,4 +171,10 @@ Receiving objects: 100% (1343/1343), 11.00 MiB | 10.21 MiB/s, done.
 Resolving deltas: 100% (543/543), done.
 ```
 
+## References
+
+* [**Generate a new SSH key**](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* [**Add a new SSH key**](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+* [**Multiple GitHub Accounts on the Same Computer**](https://stackoverflow.com/a/3860139/3971984)
+
 [**Home**](./readme.md) | [**Next**](./repositories.md)
